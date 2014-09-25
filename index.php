@@ -2,8 +2,9 @@
 
 /**
  * Accueil tutoriel 1 - introduction à ExtJS
+ * --> Ce fichier a été ajouté dans le repository GitHub
  */
-
+ 
 // Enregistrement de la visite
 $sNomFichierVisites = 'visites.log';
 $sDate = date('Y-m-d H:i:s');
